@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="gob.mx.cpte.calificApp" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>calificApp</name>
+<widget id="gob.mx.cpte.calificApp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Calificaciones SLP</name>
     <description>
-        Mantente al tanto de tus calificaciones, avisos importantes y consulta tu kardex.
+        Consulta calificaciones a partir del Ciclo Escolar 2013-2014; certificados a partir del Ciclo Escolar 2015-2016; 
+	avisos para personas del sector educativo; calendarios del Ciclo Escolar actual.
     </description>
     <author email="jreyes@cpte.gob.mx" href="http://cpte.gob.mx">
         CPTE
